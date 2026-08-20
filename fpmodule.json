@@ -1,0 +1,5 @@
+{
+  "sourceDir": "src",
+  "entryPoint": "main.lua",
+  "includes": "main.lua"
+}
