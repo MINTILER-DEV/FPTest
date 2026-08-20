@@ -2,6 +2,6 @@
   "sourceDir": "src",
   "entryPoint": "main.lua",
   "includes": [
-    "main.lua"
+    "src/main.lua"
   ]
 }
